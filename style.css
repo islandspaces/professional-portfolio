@@ -1,0 +1,38 @@
+h3{
+	padding-top: 40px;
+	padding-bottom: 10px;
+}
+#aboutMe img{
+width: 100%;
+}
+body{
+	background-image: url("images/background.png") ;
+}
+#aboutMe li{
+	list-style: none;
+	padding-bottom: 5px;
+	text-decoration: none;
+}
+#aboutMe ul{
+	padding: 0;
+}
+#projects h4{
+	font-size: 16px;
+}
+#projects img{
+padding-bottom: 10px;
+}
+footer{
+	color: #fff;
+	a{
+		#09315d;
+	}
+}
+.navbar-dark .navbar-brand {
+    color: #69caf4;
+    font-size: 24px;
+    font-family: algerian;
+}
+#aboutMe a{
+	color: #09315d;
+}
